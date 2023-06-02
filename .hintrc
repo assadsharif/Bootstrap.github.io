@@ -1,0 +1,9 @@
+{
+    "connector": {...},
+    "formatters": [...],
+    "hints": {
+        "meta-charset-utf-8": "error"
+    },
+    "parsers": [...],
+    ...
+}
